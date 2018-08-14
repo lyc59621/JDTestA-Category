@@ -1,2 +1,1 @@
-# JDTestA-Category
-私有组件化Category
+pod "JDTestA-Category"
